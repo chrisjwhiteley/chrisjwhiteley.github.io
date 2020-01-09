@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Whiteley</title>
+    <link>https://chriswhiteley.co.uk/</link>
+    <description>Recent content on Chris Whiteley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chriswhiteley.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setting goals for 2020</title>
+      <link>https://chriswhiteley.co.uk/posts/2020/01/setting-goals-for-2020/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chriswhiteley.co.uk/posts/2020/01/setting-goals-for-2020/</guid>
+      <description>Over the past couple of years i&#39;ve realised the power of speaking something into existence. This has mainly manifested itself in sporting goals but I think it&#39;s applicable to all areas of life. The accountability that you gain from putting your goals and ambitions out there for the world to see, really can&#39;t be understated. So here are my goals for 2020!
+Tech Goals  Release Subtle Sports open-source..This is a project that I started over the summer when the Cricket World Cup was on.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://chriswhiteley.co.uk/about/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chriswhiteley.co.uk/about/</guid>
+      <description>TODO: Create About Me Page</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://chriswhiteley.co.uk/portfolio/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chriswhiteley.co.uk/portfolio/</guid>
+      <description>TODO: Create Portfolio page</description>
+    </item>
+    
+  </channel>
+</rss>
